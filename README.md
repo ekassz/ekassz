@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there 👋😄
+- 🌱 I'm Emili, a senior at the University of Wisconsin - Madison.
+- 😄 Pronouns: She/her/hers
+- 🔭 Majors: Computer Science, Data Science
+- ⚡ Minors: Leadership, Digital Studies
+##
 <!--
 **ekassz/ekassz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +23,5 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekassz&theme=radical&hide_rank=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekassz&layout=compact&hide_progress=true&theme=radical)
