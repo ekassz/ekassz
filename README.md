@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekassz&theme=radical&hide_rank=true)
