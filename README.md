@@ -1,5 +1,5 @@
 ## Hi there 👋😄
-- 🌱 I'm Emili, a senior at the University of Wisconsin - Madison.
+- 🌱 I'm Emili, a recent graduate from the University of Wisconsin - Madison.
 - 😄 Pronouns: She/her/hers
 - 🔭 Majors: Computer Science, Data Science
 - ⚡ Minors: Leadership, Digital Studies
