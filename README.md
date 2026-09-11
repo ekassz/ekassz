@@ -1,8 +1,7 @@
 ## Hi there 👋😄
-- 🌱 I'm Emili, a recent graduate from the University of Wisconsin - Madison.
+- 🌱 I'm Emili, a current master's student at Georgetown University!
 - 😄 Pronouns: She/her/hers
-- 🔭 Majors: Computer Science, Data Science
-- ⚡ Minors: Leadership, Digital Studies
+- 🔭 Major: Data Science for Public Policy
 ##
 <!--
 **ekassz/ekassz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
